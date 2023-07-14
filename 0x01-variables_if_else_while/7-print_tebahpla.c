@@ -2,7 +2,6 @@
 
 /**
  * main - Starting point (lowercase alphabet in reverse)
- * 
  * Return:0 always
  */
 int main(void)
