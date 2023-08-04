@@ -7,7 +7,7 @@
  *  @s1: the normal string
  *  @s2: the special string containing "*"
  *  Return: 0
- *  */
+ */
 int wildcmp(char *s1, char *s2)
 {
 		if (*s2 == '\0')
